@@ -2,4 +2,4 @@
 - 👀 I’m interested in improve my programming knowledge
 - 🌱 I’m currently learning Nodejs, Mongodb, technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: filipematiasp@gmail.com, https://www.linkedin.com/in/filipe-matias-pinto-227151115/
+- 📫 How to reach me: filipematiasp@gmail.com, https://www.linkedin.com/in/filipe-matias-227151115/
