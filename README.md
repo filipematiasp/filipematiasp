@@ -1,4 +1,5 @@
 - 👋 Oi, tudo bem? Quem vos escreve é o Filipe.
+- Fullstack Developer!
 
 - ## Technologies I code
 <p>
