@@ -2,6 +2,13 @@
 - 👀 I’m interested in improve my programming knowledge
 - 🌱 I’m currently learning New designs parther, Typescript,
 
+
+- ## Technologies I code
+  
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  
+
+
 - ## Contatos:
 
 <div>
