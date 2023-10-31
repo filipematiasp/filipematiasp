@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @filipematiasp
-- 👀 I’m interested in improve my programming knowledge
-- 🌱 I’m currently learning New designs parther, Typescript,
-
+- 👋 Oi, tudo bem? Quem vos escreve é o Filipe.
 
 - ## Technologies I code
 <p>
