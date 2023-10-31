@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @filipematiasp
 - 👀 I’m interested in improve my programming knowledge
-- 🌱 I’m currently learning Nodejs, Mongodb, technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: filipematiasp@gmail.com, https://www.linkedin.com/in/filipe-matias-227151115/
+- 🌱 I’m currently learning New designs parther, Typescript,
+
+- ## Contatos:
+
+<div>
+<a href="https://instagram.com/filipematiasp" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:filipematiasp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/filipe-matias-227151115" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 
 <div>
